@@ -1,1 +1,5 @@
-apfel.txt
+.log
+build/
+node_module/
+.idea/
+meineKommentare.txt
